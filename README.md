@@ -5,7 +5,7 @@ A web application to store and share recipes, built with React and Node.js.
 ## Features
 
 - Users can add, update, and delete recipes.
-- Recipes are stored in a database (provide more specifics here if applicable).
+- Recipes are stored in a database.
 - Recipes are sorted by category and collection includes search functionalilty.
   
 ## Tech Stack
