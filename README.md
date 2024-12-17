@@ -8,7 +8,7 @@ A web application to store and share recipes, built with React and Node.js.
 - Recipes are stored in a database.
 - Recipes are sorted by category and collection includes search functionalilty.
   
-## Tech Stack
+## Built With
 
 - **Frontend:** React.js, Axios, HTML, CSS
 - **Backend:** Node.js, Express.js
